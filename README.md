@@ -127,7 +127,7 @@ The deployed Streamlit web application includes:
 
 # Project Structure
 
-ML_Assignment_2/
+ML-Assignment-2/
 │
 ├── app.py
 ├── requirements.txt
