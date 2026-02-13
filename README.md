@@ -2,8 +2,13 @@
 # Machine Learning Assignment 2  
 ## Heart Disease Classification using Multiple ML Models  
 
-**Name:** Deepak Kharpodiya  
-**Program:** M.Tech (AIML/DSE)  
+
+**Name:** Deepak
+
+**ID:** 2025AA052290
+
+**Email:** 2025aa05290@wilp.bits-pilani.ac.in
+
 **Course:** Machine Learning  
 
 ---
