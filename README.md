@@ -157,8 +157,8 @@ ML-Assignment-2/
 
 # Deployment
 
-Live Streamlit App Link: (Add your deployed link here)  
-GitHub Repository Link: (Add your repository link here)
+Live Streamlit App Link: https://ml-assignment-2-6b5ic2ujjvbmhnm2qefzxw.streamlit.app  
+GitHub Repository Link: https://github.com/2025aa05290
 
 ---
 
