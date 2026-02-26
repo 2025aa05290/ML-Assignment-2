@@ -91,14 +91,13 @@ Each model was evaluated using:
 
 | ML Model Name | Accuracy | AUC | Precision | Recall | F1 Score | MCC |
 |---------------|----------|------|------------|--------|----------|------|
-| Logistic Regression | XX | XX | XX | XX | XX | XX |
-| Decision Tree | XX | XX | XX | XX | XX | XX |
-| KNN | XX | XX | XX | XX | XX | XX |
-| Naive Bayes | XX | XX | XX | XX | XX | XX |
-| Random Forest (Ensemble) | XX | XX | XX | XX | XX | XX |
-| XGBoost (Ensemble) | XX | XX | XX | XX | XX | XX |
+| Logistic Regression | 0.809756 | 0.929810 | 0.761905 | 0.914286 | 0.831169 | 0.630908 |
+| Decision Tree | 0.985366 | 0.985714 | 1.000000 | 0.971429 | 0.985507 | 0.971151 |
+| KNN | 0.863415 | 0.962905 | 0.873786 | 0.857143 | 0.865385 | 0.726935 |
+| Naive Bayes | 0.829268 | 0.904286 | 0.807018 | 0.876190 | 0.840183 | 0.660163 |
+| Random Forest (Ensemble) | 1.000000 | 1.000000 | 1.000000 | 1.000000 | 1.000000 | 1.000000 |
+| XGBoost (Ensemble) | 1.000000 | 1.000000 | 1.000000 | 1.000000 | 1.000000 | 1.000000 |
 
-(Replace XX with actual results from notebook.)
 
 ---
 
